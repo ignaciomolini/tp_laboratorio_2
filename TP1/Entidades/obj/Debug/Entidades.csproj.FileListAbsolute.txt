@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 C:\Users\Nacho\source\repos\TP1\Entidades\bin\Debug\Entidades.dll
 C:\Users\Nacho\source\repos\TP1\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.dll
 C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.pdb
-=======
-C:\Users\Nacho\source\repos\TP1\Entidades\bin\Debug\Entidades.dll
-C:\Users\Nacho\source\repos\TP1\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.dll
-C:\Users\Nacho\source\repos\TP1\Entidades\obj\Debug\Entidades.pdb
->>>>>>> bb146588b1694d59d2be6b78d0b440991fcd537d
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP1\Entidades\obj\Debug\Entidades.pdb
