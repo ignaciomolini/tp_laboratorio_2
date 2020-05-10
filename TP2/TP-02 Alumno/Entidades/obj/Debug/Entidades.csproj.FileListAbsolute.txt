@@ -17,3 +17,9 @@ C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\Entidades
 C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\Entidades\obj\Debug\Entidades.pdb

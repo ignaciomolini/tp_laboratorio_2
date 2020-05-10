@@ -31,3 +31,13 @@ C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\TP-02\bin
 C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\bin\Debug\TP-02.exe
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\bin\Debug\Entidades.dll
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\obj\Debug\TP-02.exe
+C:\Users\Nacho\Desktop\Facultad\Programación-Laboratorio II\TPs\TP2\TP-02 Alumno\TP-02\obj\Debug\TP-02.pdb

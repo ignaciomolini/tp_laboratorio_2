@@ -59,7 +59,6 @@ namespace TP_02_2018
             Console.WriteLine(estacionamiento.Mostrar(estacionamiento, Estacionamiento.ETipo.Moto));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.Beep();
-            Console.ReadKey();
             Console.Clear();
 
             // Muestro solo Automovil
