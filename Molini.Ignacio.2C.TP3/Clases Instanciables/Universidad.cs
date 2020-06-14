@@ -167,13 +167,13 @@ namespace Clases_Instanciables
         }
         #endregion
 
+        #region Operadores
         /// <summary>
         /// Sobrecarga del operador == para saber si un alumno se encuentra en la universidad
         /// </summary>
         /// <param name="g">Universidad a evaluar</param>
         /// <param name="a">Alumno a evaluar</param>
         /// <returns>Retorna un bool en true si se encuentra y en false si no se encuentra</returns>
-        #region Operadores
         public static bool operator ==(Universidad g, Alumno a)
         {
             bool retorno = false;
