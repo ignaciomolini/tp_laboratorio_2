@@ -1,0 +1,16 @@
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.exe.config
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.exe
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.pdb
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Clases Instanciables.dll
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Excepciones.dll
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Excepciones.pdb
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.pdb
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Archivos.dll
+C:\Users\Nacho\source\repos\Molini.Ignacio.2C.TP3\ConsolaTP3\bin\Debug\Archivos.pdb
